@@ -1,2 +1,2 @@
 # mrdesigner
-A personal portfolio website of MRDESIGNER
+A personal portfolio website of mrdesigner
